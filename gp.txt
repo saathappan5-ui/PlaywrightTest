@@ -1,0 +1,30 @@
+====================================
+Execution Started
+Time: 2026-09-25T05:01:49.172Z
+Method: GET
+URL: https://jsonplaceholder.typicode.com/posts/1
+Status Code: 200
+Status Text: OK
+Response Body:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+====================================
+====================================
+Execution Started
+Time: 2026-09-25T05:02:14.299Z
+Method: GET
+URL: https://jsonplaceholder.typicode.com/posts/1
+Status Code: 200
+Status Text: OK
+Response Body:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+====================================
